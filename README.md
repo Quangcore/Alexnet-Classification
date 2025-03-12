@@ -1,2 +1,2 @@
 # Alexnet-Classification
-In this problem, I use the AlexNet algorithm in the Convolutional Neural Network (CNN)
+In this problem, I use the AlexNet algorithm in the Convolutional Neural Network (CNN) to classify butterfly species.
